@@ -10,7 +10,7 @@
 # How to install
 1. Close Axie Infinity if it is open.
 2. Download the archive.
-3. Unzip it.
+3. Unzip it. (password AXIE)
 4. Open "MainBot.exe". 
 5. Open Axie Infinity.
 
